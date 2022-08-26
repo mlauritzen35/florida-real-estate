@@ -1,0 +1,5 @@
+*/__pycache__
+*.ipynb_checkpoints
+/data/consolidated_fl.csv 
+*.DS_Store
+data/oasdi_2018
